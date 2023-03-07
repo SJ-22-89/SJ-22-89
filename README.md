@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joey
 - 👨‍💻 I’m currently learning programming on different learning apps. 
 - 👨‍💻 I'm also learning Pentesting on TryHackMe and Hack the Box.
-- 👨‍🎓 Soon I'll start learning for my CompTIA A+, and then go on further on my road to become a cybersecurity professional.
+- 👨‍🎓 I started learning for my CompTIA A+, after this I'll go for Network+, Security+, Linux+ and PenTest+.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SJ22.png" alt="TryHackMe">
 
