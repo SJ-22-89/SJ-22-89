@@ -10,10 +10,13 @@ SQL, JavaScript(including: WebDev, GameDev, jQuery)
 <strong>Advanced knowledge:</strong>
 Web Development (HTML, CSS, JavaScript), Python
 
+<tr>
 
 I'm also learning Pentesting on TryHackMe and Hack the Box.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SJ22.png" alt="TryHackMe">
+  
+  <tr>
 
 I started learning for my CompTIA A+, after this I'll go for Network+, Security+, Linux+ and PenTest+.
 
