@@ -2,13 +2,13 @@ Hi, I’m Joey
 I’m currently learning programming on different learning apps.
 
 <strong>Basic knowledge:</strong> 
-Go, Kotlin, PHP, Ruby, Swift 4
+Go, Kotlin, PHP, Ruby, Swift 4, Angular, NestJS, React, Redux, jQuery
 
 <strong>Intermediate knowledge:</strong>
-SQL, JavaScript(including: WebDev, GameDev, jQuery)
+SQL, JavaScript,
 
 <strong>Advanced knowledge:</strong>
-Web Development (HTML, CSS, JavaScript), Python
+Python, Web Development (HTML, CSS, JavaScript)
 
 <tr>
 
