@@ -10,13 +10,13 @@ SQL, JavaScript,
 <strong>Advanced knowledge:</strong>
 Python, Web Development (HTML, CSS, JavaScript)
 
-<zr>
+<hr>
 
 I'm also learning Pentesting on TryHackMe.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/SJ22.png" alt="TryHackMe">
   
-  <zr>
+  <hr>
 
 I started learning for my CompTIA A+, after this I'll go for Network+, Security+, Linux+ and PenTest+.
 
