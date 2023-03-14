@@ -18,7 +18,7 @@ I'm also learning Pentesting on TryHackMe.
   
   <hr>
 
-I started learning for my CompTIA A+, after this I'll go for Network+, Security+, Linux+ and PenTest+.
+I started learning for my CompTIA A+, after this I'll go for Network+, Security+, Linux+, PenTest+ and CySA+.
 
 
 
