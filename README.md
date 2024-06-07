@@ -12,15 +12,11 @@ I’m currently learning programming on different learning apps.
 
 <hr>
 
-I'm also learning Pentesting on TryHackMe.
+I'm also learning Pentesting on TryHackMe and HackTheBox.
   
   <hr>
 
-On September 7th 2023 i completed my CompTIA A+ certificate
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="de70408a-7a9a-4ccc-9d8a-d8db69c9aede" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-Now i continue with Network+, Security+, Linux+, PenTest+ and CySA+.
 
 
 
