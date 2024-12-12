@@ -16,8 +16,6 @@ I'm also learning Pentesting on TryHackMe and HackTheBox.
   
   <hr>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3735660" style='border:none;'></iframe>
-
 
 
 <!---
